@@ -9,14 +9,6 @@
 #pragma once
 #include <iostream>
 
- 
-struct Value0 {
-  bool  is_ok  ;
-  int  intval ;
-  float  floatval; 
-  char strs[17] ; 
-};
-
 struct Dinosaur;
 class MyClass {
 public:
